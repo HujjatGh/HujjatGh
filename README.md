@@ -25,8 +25,8 @@
   I am a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> in Madrid, Spain.
 
 
-- 🌱 I’m currently learning Front-End web development
-- 👯 I’m looking to collaborate on cool coding projects
+- 🌱 Currently learning Front-End web development
+- 👯 Looking forward to collaborating on cool coding projects
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/Hujjat-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hujjatullah-ghafari-4a8ab4212)
 - 😄 Pronouns: He/ Him
 
